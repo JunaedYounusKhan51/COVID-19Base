@@ -1,2 +1,3 @@
 # COVID-19Base 1.0
-A knowledgebase to explore biomedical entities related to COVID-19
+A knowledgebase to explore biomedical entities related to COVID-19.
+It is the first comprehensive knowledgebase to find the associations of seven different thematic areas related to COVID-19/SARS-CoV-2 and other coronavirus-related diseases in humans. While careful manual curation of the identified associations is the ultimate goal, in COVID-19Base, we implement a novel approach to estimate the effectiveness of drug for diseases based on natural language processing, sentiment analysis, and deep learning. We also apply the concept of cosine similarity to confidently infer the associations between diseases and genes, lncRNAs, miRNAs. It will support the researcher around the world to discover the existing knowledge and find a solution for this pandemic.

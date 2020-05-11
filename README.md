@@ -10,6 +10,7 @@ It is the first comprehensive knowledgebase to find the associations of seven di
 * Numpy
 * Pandas
 * Keras
+* tqdm
 
 ## Materials Used
 * CORD-19 Dataset

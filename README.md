@@ -13,14 +13,15 @@ It is the first comprehensive knowledgebase to find the associations of seven di
 * tqdm
 
 ## Materials Used
-* CORD-19 Dataset
-* Disease Onotology
-* DrugBank
-* HGNC
-* LNCipedia
-* miRBase
-* DisGeNET
-* SIDER
+* CORD-19 Dataset (https://pages.semanticscholar.org/coronavirus-research)
+* Disease Onotology (https://disease-ontology.org/)
+* DrugBank (https://www.drugbank.ca/)
+* HGNC (https://www.genenames.org/)
+* LNCipedia (https://lncipedia.org/)
+* miRBase (http://www.mirbase.org/)
+* DisGeNET (https://www.disgenet.org/)
+* Protein Data Bank (https://www.rcsb.org/)
+* SIDER (http://sideeffects.embl.de/)
 
 ## Techniques/Algorithms Used
 * String Matching Algorithm (Aho-corasick)
@@ -37,3 +38,7 @@ It is the first comprehensive knowledgebase to find the associations of seven di
 * Extracting drug-pdb associations on abstract level
 * Extracting side-effects associated with drugs from SIDER
 
+## Code and Data
+You will find the codes of this project under the 'code and data' directory. The codes are organised in a sequential manner.
+
+You will need to download the datasets from corresponding source (please follow the 'Materials Used' section for sources) and keep them in the same folder with the codes before running. You will have to rename (or format) them as mentioned in the codes.

@@ -46,8 +46,7 @@ You will need to download the datasets from corresponding source (please follow 
 ## Resulting Database (Knowledgebase)
 The resulting database can be found in the 'resulting database (knowledgebase)' directory.
 
-File description in 'resulting database (knowledgebase)' folder:
-----------------------------------------------------------------
+####File description in 'resulting database (knowledgebase)' folder:
 *Drug_disease_interaction.xlsx (contains drug disease interactions with effectiveness measure)
 *Drug_SideEffects.xlsx (contains side-effects for different drugs)
 *disease_hgnc_association.xlsx (contains disease gene associations with confidence level)

@@ -13,7 +13,6 @@ This repo contains the implementation of COVID-19Base.
 * Disease Onotology (https://disease-ontology.org/)
 * DrugBank (https://www.drugbank.ca/)
 * HGNC (https://www.genenames.org/)
-* LNCipedia (https://lncipedia.org/)
 * miRBase (http://www.mirbase.org/)
 * DisGeNET (https://www.disgenet.org/)
 * Protein Data Bank (https://www.rcsb.org/)

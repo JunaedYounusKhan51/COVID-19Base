@@ -1,9 +1,5 @@
-# Towards Preparing a Knowledgebase to Explore Potential Drugs and Biomedical Entities Related to COVID-19
 ## Basic Info
 This repo contains the implementation of COVID-19Base.
-
-## COVID-19Base
-It is the first comprehensive knowledgebase to find the associations of seven different thematic areas related to COVID-19/SARS-CoV-2 and other coronavirus-related diseases in humans. While careful manual curation of the identified associations is the ultimate goal, in COVID-19Base, we implement a novel approach to estimate the effectiveness of drug for diseases based on natural language processing, sentiment analysis, and deep learning. We also apply the concept of cosine similarity to confidently infer the associations between diseases and genes, miRNAs. It will support the researcher around the world to discover the existing knowledge and find a solution for this pandemic.
 
 ## Requirements
 * Python
@@ -30,23 +26,17 @@ It is the first comprehensive knowledgebase to find the associations of seven di
 * Deep Learning
 * Cosine Similarity
 
-## Methods
-* Extracting entity names in dictionary-based approach using Aho-corasick algorithm
-* Extracting pairs(associations) using co-occurance based approach
-* Measuring effectiveness of drug-disease interaction using TextBlob, unsupervised sentiment analysis and Neural Network Model
-* Measuring confidence level of disease-gene, disease-miRNA associations using cosine similarity concept
-* Extracting drug-pdb associations on abstract level
-* Extracting side-effects associated with drugs from SIDER
-
 ## Code
 You will find the codes of this project under the 'code and data' directory. The codes are organised in a sequential manner.
 
 You will need to download the datasets from corresponding source (please follow the 'Materials Used' section for sources) and keep them in the same folder with the codes before running. You will have to rename (or format) them as mentioned in the codes.
 
 ## Resulting Database (Knowledgebase)
-The resulting database can be found in the 'resulting database (knowledgebase)' directory which contains the following files:
+The latest version of the resulting database can be found in the 'resulting database (knowledgebase)' directory which contains the following files:
 * Drug_disease_interaction.xlsx (contains drug disease interactions with effectiveness measure)
 * Drug_SideEffects.xlsx (contains side-effects for different drugs)
 * disease_hgnc_association.xlsx (contains disease gene associations with confidence level)
 * disease_miRNA_association.xlsx (contains disease miRNA associations with confidence level)
 * drug_pdb_association.xlsx (contaions drug pdb associations)
+
+The previous version(s) of the knowledgebase can be found in the 'previous versions' folder under the 'resulting database (knowledgebase)' directory.

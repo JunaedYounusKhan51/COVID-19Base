@@ -37,6 +37,6 @@ The latest version of the resulting database can be found in the 'resulting data
 * Drug_SideEffects.xlsx (contains side-effects for different drugs)
 * disease_hgnc_association.xlsx (contains disease gene associations with confidence level)
 * disease_miRNA_association.xlsx (contains disease miRNA associations with confidence level)
-* drug_pdb_association.xlsx (contaions drug pdb associations)
+* drug_pdb_association.xlsx (contains drug pdb associations)
 
 The previous version(s) of the knowledgebase can be found in the 'previous versions' folder under the 'resulting database (knowledgebase)' directory.

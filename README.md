@@ -1,4 +1,4 @@
-# COVID-19Base: A knowledgebase to explore biomedical entities related to COVID-19
+# Towards Preparing a Knowledgebase to Explore Potential Drugs and Biomedical Entities Related to COVID-19
 ## Basic Info
 This repo contains the implementation of COVID-19Base.
 

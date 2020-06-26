@@ -44,9 +44,7 @@ You will find the codes of this project under the 'code and data' directory. The
 You will need to download the datasets from corresponding source (please follow the 'Materials Used' section for sources) and keep them in the same folder with the codes before running. You will have to rename (or format) them as mentioned in the codes.
 
 ## Resulting Database (Knowledgebase)
-The resulting database can be found in the 'resulting database (knowledgebase)' directory.
-
-####File description in 'resulting database (knowledgebase)' folder:
+The resulting database can be found in the 'resulting database (knowledgebase)' directory which contains the following files:
 *Drug_disease_interaction.xlsx (contains drug disease interactions with effectiveness measure)
 *Drug_SideEffects.xlsx (contains side-effects for different drugs)
 *disease_hgnc_association.xlsx (contains disease gene associations with confidence level)

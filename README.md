@@ -37,8 +37,8 @@ The latest version of the resulting database can be found in the 'resulting data
 * disease_hgnc_association.xlsx (contains disease gene associations with confidence level)
 * disease_miRNA_association.xlsx (contains disease miRNA associations with confidence level)
 * drug_pdb_association.xlsx (contains drug pdb associations)
-* drug_disease_sentence_paper.xlsx (contains mapping between drug-disease pairs and corresponding sentences from papers)
-* disease_gene_abstract_paper.xlsx (contains mapping between disease-gene pairs and corresponding abstracts from papers)
-* drug_pdb_abstract_paper.xlsx (contains mapping between drug-pdb pairs and corresponding abstracts from papers)
+* drug_disease_sentence_paper.xlsx (contains mapping between drug-disease pairs and corresponding sentences)
+* disease_gene_abstract_paper.xlsx (contains mapping between disease-gene pairs and corresponding abstracts)
+* drug_pdb_abstract_paper.xlsx (contains mapping between drug-pdb pairs and corresponding abstracts)
 
 The previous version(s) of the knowledgebase can be found in the 'previous versions' folder under the 'resulting database (knowledgebase)' directory.
